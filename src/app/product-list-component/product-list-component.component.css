@@ -1,0 +1,12 @@
+
+table{
+    border: 1px solid gray;
+}
+.highlightDirective{
+    background-color:yellowgreen;
+    color: red;
+}
+
+.color{
+    color: blue;
+}
